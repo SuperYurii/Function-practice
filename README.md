@@ -1,2 +1,1 @@
-# Function-practice
-This function takes a string as input and returns the number of unique characters that appear two or more times
+Recently, I had an interesting experience with test tasks from a job I’m applying for. This made me realize that I need more practice with different scenarios to train my brain and improve my problem-solving skills.
